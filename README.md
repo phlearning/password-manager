@@ -5,9 +5,9 @@ Ce projet a pour but de stocker des mots de passes. Par oubli le mot de passe es
 
 # Pour lancer le projet
 
-Si vous disposer de make alors il suffit de faire `make`
-
-Sinon faites `docker compose up --build`
+Si vous disposer de make alors il suffit de faire `make`  
+Sinon faites `docker compose up --build`  
+Une fois les containers lancées, le site devrait être accessible sur `http://localhost:4200/`
 
 # Quelques informations
 
